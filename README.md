@@ -1,1 +1,3 @@
-Computer Science Student from Germany
+# Welcome!
+###Computer Science Student from Germany
+###Interested in Webdevelopment
