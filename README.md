@@ -1,3 +1,3 @@
 # Welcome!
 ### Computer Science Student from Germany
-### Interested in Webdevelopment
+### Interested in Web Development
